@@ -15,4 +15,6 @@
 
 
 ###### Note:Contributions are much appreciated. Please take a look at the issues below and see if you can fix them: 
-- [ ] Replace 25 in `dist=x1/25,y1/25...` with radius of the coin without crashing the program :smile:
+
+
+- [ ] Replace 25 in `dist=x1/25,y1/25...` with radius of the coin without crashing the program :smile: [Issue #1](/../../issues/1)
