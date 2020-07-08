@@ -7,4 +7,8 @@
        
        pip install opencv-python
        
- 
+
+
+Everybody gets a coin! :eyes:
+
+![Bazinga!](https://github.com/Jarvis-BITS/Coin-Detection/blob/master/Coin_Detec%20(0).gif)
